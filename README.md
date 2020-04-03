@@ -21,4 +21,5 @@ Public Switched Telephone Network
 
                     Internation GW Exchange Center ---- Primary Center ---- Toll Center ---- End Office
 
-                         
+      
+![pstnToips](https://www.media5corp.com/wp-content/uploads/OperatorPSTN-to-All-IP_Mediatrix_solution_page_diagram.png)
