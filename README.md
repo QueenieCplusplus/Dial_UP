@@ -23,3 +23,9 @@ Public Switched Telephone Network
 
       
 ![pstnToips](https://www.media5corp.com/wp-content/uploads/OperatorPSTN-to-All-IP_Mediatrix_solution_page_diagram.png)
+
+
+# DDR
+
+Some Router provides built-in features of DDR, Dial-Up on Demand Routing Capability.
+DDR enables networking equipments to dynamically dial up a connectio to a remote WAN DES.
